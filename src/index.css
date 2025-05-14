@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.plus-jakarta-sans-connect {
+    font-family: "Plus Jakarta Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(62, 62, 238);
+  }
